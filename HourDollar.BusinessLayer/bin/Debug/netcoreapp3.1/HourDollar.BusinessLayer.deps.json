@@ -1,0 +1,100 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "HourDollar.BusinessLayer/1.0.0": {
+        "dependencies": {
+          "AWSSDK.DynamoDBv2": "3.3.105.7",
+          "HourDollar.BusinessLayer.Interface": "1.0.0",
+          "HourDollar.DataLayer.Interface": "1.0.0",
+          "HourDollar.Models": "1.0.0"
+        },
+        "runtime": {
+          "HourDollar.BusinessLayer.dll": {}
+        }
+      },
+      "AWSSDK.Core/3.3.104.33": {
+        "runtime": {
+          "lib/netstandard2.0/AWSSDK.Core.dll": {
+            "assemblyVersion": "3.3.0.0",
+            "fileVersion": "3.3.104.33"
+          }
+        }
+      },
+      "AWSSDK.DynamoDBv2/3.3.105.7": {
+        "dependencies": {
+          "AWSSDK.Core": "3.3.104.33"
+        },
+        "runtime": {
+          "lib/netstandard2.0/AWSSDK.DynamoDBv2.dll": {
+            "assemblyVersion": "3.3.0.0",
+            "fileVersion": "3.3.105.7"
+          }
+        }
+      },
+      "HourDollar.BusinessLayer.Interface/1.0.0": {
+        "dependencies": {
+          "AWSSDK.DynamoDBv2": "3.3.105.7",
+          "HourDollar.Models": "1.0.0"
+        },
+        "runtime": {
+          "HourDollar.BusinessLayer.Interface.dll": {}
+        }
+      },
+      "HourDollar.DataLayer.Interface/1.0.0": {
+        "dependencies": {
+          "AWSSDK.DynamoDBv2": "3.3.105.7",
+          "HourDollar.Models": "1.0.0"
+        },
+        "runtime": {
+          "HourDollar.DataLayer.Interface.dll": {}
+        }
+      },
+      "HourDollar.Models/1.0.0": {
+        "runtime": {
+          "HourDollar.Models.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "HourDollar.BusinessLayer/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AWSSDK.Core/3.3.104.33": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-cKRgshyXs3ezyxAQ9HM5uf92pdGcekWAIuA3CNIx/BMRoYrBVo9W85yfYPkEU4qguEVYcmVlE0tw+E2YYDG9Tg==",
+      "path": "awssdk.core/3.3.104.33",
+      "hashPath": "awssdk.core.3.3.104.33.nupkg.sha512"
+    },
+    "AWSSDK.DynamoDBv2/3.3.105.7": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-zTS/KAaRNm/2K3Apnre0X2mL+yk3pmvYmMP/sPIgqcat6rVL3skMbrHfElOkxdDBAvvfCcHsvrr7INveqYaxeg==",
+      "path": "awssdk.dynamodbv2/3.3.105.7",
+      "hashPath": "awssdk.dynamodbv2.3.3.105.7.nupkg.sha512"
+    },
+    "HourDollar.BusinessLayer.Interface/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "HourDollar.DataLayer.Interface/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "HourDollar.Models/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

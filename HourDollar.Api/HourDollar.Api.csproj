@@ -1,0 +1,18 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <ItemGroup>
+    <ProjectReference Include="..\HourDollar.Models\HourDollar.Models.csproj" />
+    <ProjectReference Include="..\HourDollar.Config\HourDollar.Config.csproj" />
+    <ProjectReference Include="..\HourDollar.BusinessLayer.Interface\HourDollar.BusinessLayer.Interface.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="5.0.0" />
+  </ItemGroup>
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+
+</Project>

@@ -1,0 +1,11 @@
+/Users/dgray3/Documents/GitHub/HourDollar/HourDollar.DataLayer.Interface/bin/Debug/netcoreapp3.1/HourDollar.DataLayer.Interface.deps.json
+/Users/dgray3/Documents/GitHub/HourDollar/HourDollar.DataLayer.Interface/bin/Debug/netcoreapp3.1/HourDollar.DataLayer.Interface.dll
+/Users/dgray3/Documents/GitHub/HourDollar/HourDollar.DataLayer.Interface/bin/Debug/netcoreapp3.1/HourDollar.DataLayer.Interface.pdb
+/Users/dgray3/Documents/GitHub/HourDollar/HourDollar.DataLayer.Interface/bin/Debug/netcoreapp3.1/HourDollar.Models.dll
+/Users/dgray3/Documents/GitHub/HourDollar/HourDollar.DataLayer.Interface/bin/Debug/netcoreapp3.1/HourDollar.Models.pdb
+/Users/dgray3/Documents/GitHub/HourDollar/HourDollar.DataLayer.Interface/obj/Debug/netcoreapp3.1/HourDollar.DataLayer.Interface.csprojAssemblyReference.cache
+/Users/dgray3/Documents/GitHub/HourDollar/HourDollar.DataLayer.Interface/obj/Debug/netcoreapp3.1/HourDollar.DataLayer.Interface.AssemblyInfoInputs.cache
+/Users/dgray3/Documents/GitHub/HourDollar/HourDollar.DataLayer.Interface/obj/Debug/netcoreapp3.1/HourDollar.DataLayer.Interface.AssemblyInfo.cs
+/Users/dgray3/Documents/GitHub/HourDollar/HourDollar.DataLayer.Interface/obj/Debug/netcoreapp3.1/HourDollar.DataLayer.Interface.csproj.CopyComplete
+/Users/dgray3/Documents/GitHub/HourDollar/HourDollar.DataLayer.Interface/obj/Debug/netcoreapp3.1/HourDollar.DataLayer.Interface.dll
+/Users/dgray3/Documents/GitHub/HourDollar/HourDollar.DataLayer.Interface/obj/Debug/netcoreapp3.1/HourDollar.DataLayer.Interface.pdb
