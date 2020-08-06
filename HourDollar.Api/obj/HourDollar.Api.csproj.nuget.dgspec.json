@@ -65,6 +65,16 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Runtime.osx-x64",
+              "version": "[3.1.5, 3.1.5]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Runtime.osx-x64",
+              "version": "[3.1.5, 3.1.5]"
+            }
+          ],
           "frameworkReferences": {
             "Microsoft.AspNetCore.App": {
               "privateAssets": "none"
@@ -74,6 +84,11 @@
             }
           },
           "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.301/RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "osx.10.11-x64": {
+          "#import": []
         }
       }
     },
@@ -134,6 +149,11 @@
             }
           },
           "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.301/RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "osx.10.11-x64": {
+          "#import": []
         }
       }
     },
@@ -200,6 +220,11 @@
             }
           },
           "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.301/RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "osx.10.11-x64": {
+          "#import": []
         }
       }
     },
@@ -282,6 +307,11 @@
           },
           "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.301/RuntimeIdentifierGraph.json"
         }
+      },
+      "runtimes": {
+        "osx.10.11-x64": {
+          "#import": []
+        }
       }
     },
     "/Users/hourdollar/Documents/GitHub/hourdollar/hourdollar-api/HourDollar.DataLayer.Interface/HourDollar.DataLayer.Interface.csproj": {
@@ -341,6 +371,11 @@
             }
           },
           "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.301/RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "osx.10.11-x64": {
+          "#import": []
         }
       }
     },
@@ -419,6 +454,11 @@
           },
           "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.301/RuntimeIdentifierGraph.json"
         }
+      },
+      "runtimes": {
+        "osx.10.11-x64": {
+          "#import": []
+        }
       }
     },
     "/Users/hourdollar/Documents/GitHub/hourdollar/hourdollar-api/HourDollar.Models/HourDollar.Models.csproj": {
@@ -474,6 +514,11 @@
             }
           },
           "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.301/RuntimeIdentifierGraph.json"
+        }
+      },
+      "runtimes": {
+        "osx.10.11-x64": {
+          "#import": []
         }
       }
     }

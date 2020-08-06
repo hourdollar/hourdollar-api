@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "s82h2Txk2c7E+mb0Zbwe4raiJ2RbfPwL4eZ9i66Wo6GQSxxJHbmEB6jDfJlex3he9o2Jnj4vzmCl1253tzlXjw==",
+  "dgSpecHash": "dpuSPRJbVnutwcmSArstIP5NBaUuqf7gQl3CvhIm6uBjHJzk7wdu0+q6o9vt1QxGqWqh9p/AhHVaVjQuyMt91Q==",
   "success": true,
   "projectFilePath": "/Users/hourdollar/Documents/GitHub/hourdollar/hourdollar-api/HourDollar.DataLayer.Interface/HourDollar.DataLayer.Interface.csproj",
   "expectedPackageFiles": [
