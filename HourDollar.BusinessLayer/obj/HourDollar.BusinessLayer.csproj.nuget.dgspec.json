@@ -62,11 +62,6 @@
           },
           "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.301/RuntimeIdentifierGraph.json"
         }
-      },
-      "runtimes": {
-        "osx.10.11-x64": {
-          "#import": []
-        }
       }
     },
     "/Users/hourdollar/Documents/GitHub/hourdollar/hourdollar-api/HourDollar.BusinessLayer/HourDollar.BusinessLayer.csproj": {
@@ -133,11 +128,6 @@
           },
           "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.301/RuntimeIdentifierGraph.json"
         }
-      },
-      "runtimes": {
-        "osx.10.11-x64": {
-          "#import": []
-        }
       }
     },
     "/Users/hourdollar/Documents/GitHub/hourdollar/hourdollar-api/HourDollar.DataLayer.Interface/HourDollar.DataLayer.Interface.csproj": {
@@ -198,11 +188,6 @@
           },
           "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.301/RuntimeIdentifierGraph.json"
         }
-      },
-      "runtimes": {
-        "osx.10.11-x64": {
-          "#import": []
-        }
       }
     },
     "/Users/hourdollar/Documents/GitHub/hourdollar/hourdollar-api/HourDollar.Models/HourDollar.Models.csproj": {
@@ -258,11 +243,6 @@
             }
           },
           "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.301/RuntimeIdentifierGraph.json"
-        }
-      },
-      "runtimes": {
-        "osx.10.11-x64": {
-          "#import": []
         }
       }
     }

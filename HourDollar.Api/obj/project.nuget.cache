@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "38pj0fdFWB7C8NRaJPbjCgOc16BZlk+ZHpeQvFCcAXr6v0/+n+O4uPlj1+1I+rLmiJiMdlsumI5Rv9UK7+7jkQ==",
+  "dgSpecHash": "Cj/YZBjVvd6Q0xwkMA6dFyOQtM+/d3nmNZkhhWYmoZ/DMmbpzpTmly620/o7EPACcHOwfW/QRQMJ2IapLmqMgQ==",
   "success": true,
   "projectFilePath": "/Users/hourdollar/Documents/GitHub/hourdollar/hourdollar-api/HourDollar.Api/HourDollar.Api.csproj",
   "expectedPackageFiles": [
@@ -33,9 +33,7 @@
     "/Users/hourdollar/.nuget/packages/swashbuckle.aspnetcore.swaggerui/5.0.0/swashbuckle.aspnetcore.swaggerui.5.0.0.nupkg.sha512",
     "/Users/hourdollar/.nuget/packages/system.collections.immutable/1.7.0/system.collections.immutable.1.7.0.nupkg.sha512",
     "/Users/hourdollar/.nuget/packages/system.componentmodel.annotations/4.7.0/system.componentmodel.annotations.4.7.0.nupkg.sha512",
-    "/Users/hourdollar/.nuget/packages/system.diagnostics.diagnosticsource/4.7.0/system.diagnostics.diagnosticsource.4.7.0.nupkg.sha512",
-    "/Users/hourdollar/.nuget/packages/microsoft.netcore.app.runtime.osx-x64/3.1.5/microsoft.netcore.app.runtime.osx-x64.3.1.5.nupkg.sha512",
-    "/Users/hourdollar/.nuget/packages/microsoft.aspnetcore.app.runtime.osx-x64/3.1.5/microsoft.aspnetcore.app.runtime.osx-x64.3.1.5.nupkg.sha512"
+    "/Users/hourdollar/.nuget/packages/system.diagnostics.diagnosticsource/4.7.0/system.diagnostics.diagnosticsource.4.7.0.nupkg.sha512"
   ],
   "logs": []
 }

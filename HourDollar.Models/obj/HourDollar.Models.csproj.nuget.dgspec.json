@@ -58,11 +58,6 @@
           },
           "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.301/RuntimeIdentifierGraph.json"
         }
-      },
-      "runtimes": {
-        "osx.10.11-x64": {
-          "#import": []
-        }
       }
     }
   }
