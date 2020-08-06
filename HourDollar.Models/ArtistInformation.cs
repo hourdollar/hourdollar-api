@@ -4,17 +4,21 @@ namespace HourDollar.Models
 {
     public class ArtistInformation
     {
-        public ArtistId ArtistId {get; set;}
-        public string ArtistName {get; set;}
-        public string ArtistRoute {get; set;}
-    }
+        public int artistId { get; set; }
+        public string artistName { get; set; }
+        public string artistRoute { get; set; }
+        public string twitterUrl { get; set; }
+        public string instagramUrl { get; set; }
+        public string facebookUrl { get; set; }
+        public string artistBio { get; set; }
+        public string calendarUrl { get; set; }
+        public bool isActive {get; set;}
 
-    public enum ArtistId 
-    {
-        Nice87,
-        BLewie,
-        DaveHill,
-        EBaggs
+        internal DatabaseSettings Db { get; set; }
+
+        public ArtistInformation()
+        {
+        }
 
     }
 }

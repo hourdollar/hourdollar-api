@@ -6,3 +6,12 @@
 /Users/dgray3/Documents/GitHub/HourDollar/HourDollar.Models/obj/Debug/netcoreapp3.1/HourDollar.Models.AssemblyInfo.cs
 /Users/dgray3/Documents/GitHub/HourDollar/HourDollar.Models/obj/Debug/netcoreapp3.1/HourDollar.Models.dll
 /Users/dgray3/Documents/GitHub/HourDollar/HourDollar.Models/obj/Debug/netcoreapp3.1/HourDollar.Models.pdb
+/Users/hourdollar/Documents/GitHub/hourdollar/hourdollar-api/HourDollar.Models/bin/Debug/netcoreapp3.1/HourDollar.Models.deps.json
+/Users/hourdollar/Documents/GitHub/hourdollar/hourdollar-api/HourDollar.Models/bin/Debug/netcoreapp3.1/HourDollar.Models.dll
+/Users/hourdollar/Documents/GitHub/hourdollar/hourdollar-api/HourDollar.Models/bin/Debug/netcoreapp3.1/HourDollar.Models.pdb
+/Users/hourdollar/Documents/GitHub/hourdollar/hourdollar-api/HourDollar.Models/obj/Debug/netcoreapp3.1/HourDollar.Models.csprojAssemblyReference.cache
+/Users/hourdollar/Documents/GitHub/hourdollar/hourdollar-api/HourDollar.Models/obj/Debug/netcoreapp3.1/HourDollar.Models.AssemblyInfoInputs.cache
+/Users/hourdollar/Documents/GitHub/hourdollar/hourdollar-api/HourDollar.Models/obj/Debug/netcoreapp3.1/HourDollar.Models.AssemblyInfo.cs
+/Users/hourdollar/Documents/GitHub/hourdollar/hourdollar-api/HourDollar.Models/obj/Debug/netcoreapp3.1/HourDollar.Models.csproj.CoreCompileInputs.cache
+/Users/hourdollar/Documents/GitHub/hourdollar/hourdollar-api/HourDollar.Models/obj/Debug/netcoreapp3.1/HourDollar.Models.dll
+/Users/hourdollar/Documents/GitHub/hourdollar/hourdollar-api/HourDollar.Models/obj/Debug/netcoreapp3.1/HourDollar.Models.pdb

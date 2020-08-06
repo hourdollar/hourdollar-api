@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "J8UriqfWWof8fmYiAlnEyzQyLrP4/uR13N1j4J2ewPnx5lJ91zQTnaQM5FyWWGmnZePj2y1ZG8wjkI2mLHxB1w==",
+  "success": true,
+  "projectFilePath": "/Users/hourdollar/Documents/GitHub/hourdollar/hourdollar-api/HourDollar.BusinessLayer.Interface/HourDollar.BusinessLayer.Interface.csproj",
+  "expectedPackageFiles": [
+    "/Users/hourdollar/.nuget/packages/awssdk.core/3.3.104.33/awssdk.core.3.3.104.33.nupkg.sha512",
+    "/Users/hourdollar/.nuget/packages/awssdk.dynamodbv2/3.3.105.7/awssdk.dynamodbv2.3.3.105.7.nupkg.sha512",
+    "/Users/hourdollar/.nuget/packages/mysqlconnector/1.0.0/mysqlconnector.1.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

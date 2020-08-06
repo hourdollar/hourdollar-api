@@ -23,9 +23,21 @@
           "lib/netstandard2.0/AWSSDK.DynamoDBv2.dll": {}
         }
       },
+      "MySqlConnector/1.0.0": {
+        "type": "package",
+        "compile": {
+          "lib/netcoreapp3.0/MySqlConnector.dll": {}
+        },
+        "runtime": {
+          "lib/netcoreapp3.0/MySqlConnector.dll": {}
+        }
+      },
       "HourDollar.Models/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v3.1",
+        "dependencies": {
+          "MySqlConnector": "1.0.0"
+        },
         "compile": {
           "bin/placeholder/HourDollar.Models.dll": {}
         },
@@ -125,6 +137,36 @@
         "tools/uninstall.ps1"
       ]
     },
+    "MySqlConnector/1.0.0": {
+      "sha512": "7meR9elqyw/cF67N19MCKYzZjtyMJBlaCvjOC53XbrRQcvzER1sICpzcHwpsZF7sTxhHDZk6b3J25IOvSJaj6A==",
+      "type": "package",
+      "path": "mysqlconnector/1.0.0",
+      "files": [
+        ".nupkg.metadata",
+        ".signature.p7s",
+        "lib/net45/MySqlConnector.dll",
+        "lib/net45/MySqlConnector.xml",
+        "lib/net461/MySqlConnector.dll",
+        "lib/net461/MySqlConnector.xml",
+        "lib/net471/MySqlConnector.dll",
+        "lib/net471/MySqlConnector.xml",
+        "lib/net5.0/MySqlConnector.dll",
+        "lib/net5.0/MySqlConnector.xml",
+        "lib/netcoreapp2.1/MySqlConnector.dll",
+        "lib/netcoreapp2.1/MySqlConnector.xml",
+        "lib/netcoreapp3.0/MySqlConnector.dll",
+        "lib/netcoreapp3.0/MySqlConnector.xml",
+        "lib/netstandard1.3/MySqlConnector.dll",
+        "lib/netstandard1.3/MySqlConnector.xml",
+        "lib/netstandard2.0/MySqlConnector.dll",
+        "lib/netstandard2.0/MySqlConnector.xml",
+        "lib/netstandard2.1/MySqlConnector.dll",
+        "lib/netstandard2.1/MySqlConnector.xml",
+        "logo.png",
+        "mysqlconnector.1.0.0.nupkg.sha512",
+        "mysqlconnector.nuspec"
+      ]
+    },
     "HourDollar.Models/1.0.0": {
       "type": "project",
       "path": "../HourDollar.Models/HourDollar.Models.csproj",
@@ -138,23 +180,19 @@
     ]
   },
   "packageFolders": {
-    "/Users/dgray3/.nuget/packages/": {},
-    "/usr/local/share/dotnet/sdk/NuGetFallbackFolder": {}
+    "/Users/hourdollar/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/dgray3/Documents/GitHub/HourDollar/HourDollar.DataLayer.Interface/HourDollar.DataLayer.Interface.csproj",
+      "projectUniqueName": "/Users/hourdollar/Documents/GitHub/hourdollar/hourdollar-api/HourDollar.DataLayer.Interface/HourDollar.DataLayer.Interface.csproj",
       "projectName": "HourDollar.DataLayer.Interface",
-      "projectPath": "/Users/dgray3/Documents/GitHub/HourDollar/HourDollar.DataLayer.Interface/HourDollar.DataLayer.Interface.csproj",
-      "packagesPath": "/Users/dgray3/.nuget/packages/",
-      "outputPath": "/Users/dgray3/Documents/GitHub/HourDollar/HourDollar.DataLayer.Interface/obj/",
+      "projectPath": "/Users/hourdollar/Documents/GitHub/hourdollar/hourdollar-api/HourDollar.DataLayer.Interface/HourDollar.DataLayer.Interface.csproj",
+      "packagesPath": "/Users/hourdollar/.nuget/packages/",
+      "outputPath": "/Users/hourdollar/Documents/GitHub/hourdollar/hourdollar-api/HourDollar.DataLayer.Interface/obj/",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
-      ],
       "configFilePaths": [
-        "/Users/dgray3/.nuget/NuGet/NuGet.Config"
+        "/Users/hourdollar/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp3.1"
@@ -165,8 +203,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "/Users/dgray3/Documents/GitHub/HourDollar/HourDollar.Models/HourDollar.Models.csproj": {
-              "projectPath": "/Users/dgray3/Documents/GitHub/HourDollar/HourDollar.Models/HourDollar.Models.csproj"
+            "/Users/hourdollar/Documents/GitHub/hourdollar/hourdollar-api/HourDollar.Models/HourDollar.Models.csproj": {
+              "projectPath": "/Users/hourdollar/Documents/GitHub/hourdollar/hourdollar-api/HourDollar.Models/HourDollar.Models.csproj"
             }
           }
         }
@@ -200,7 +238,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.101/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.301/RuntimeIdentifierGraph.json"
       }
     }
   }

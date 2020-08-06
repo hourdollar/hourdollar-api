@@ -1,23 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/Users/dgray3/Documents/GitHub/HourDollar/HourDollar.Api/HourDollar.Api.csproj": {}
+    "/Users/hourdollar/Documents/GitHub/hourdollar/hourdollar-api/HourDollar.Api/HourDollar.Api.csproj": {}
   },
   "projects": {
-    "/Users/dgray3/Documents/GitHub/HourDollar/HourDollar.Api/HourDollar.Api.csproj": {
+    "/Users/hourdollar/Documents/GitHub/hourdollar/hourdollar-api/HourDollar.Api/HourDollar.Api.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/dgray3/Documents/GitHub/HourDollar/HourDollar.Api/HourDollar.Api.csproj",
+        "projectUniqueName": "/Users/hourdollar/Documents/GitHub/hourdollar/hourdollar-api/HourDollar.Api/HourDollar.Api.csproj",
         "projectName": "HourDollar.Api",
-        "projectPath": "/Users/dgray3/Documents/GitHub/HourDollar/HourDollar.Api/HourDollar.Api.csproj",
-        "packagesPath": "/Users/dgray3/.nuget/packages/",
-        "outputPath": "/Users/dgray3/Documents/GitHub/HourDollar/HourDollar.Api/obj/",
+        "projectPath": "/Users/hourdollar/Documents/GitHub/hourdollar/hourdollar-api/HourDollar.Api/HourDollar.Api.csproj",
+        "packagesPath": "/Users/hourdollar/.nuget/packages/",
+        "outputPath": "/Users/hourdollar/Documents/GitHub/hourdollar/hourdollar-api/HourDollar.Api/obj/",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "/Users/dgray3/.nuget/NuGet/NuGet.Config"
+          "/Users/hourdollar/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
@@ -28,14 +25,14 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "/Users/dgray3/Documents/GitHub/HourDollar/HourDollar.BusinessLayer.Interface/HourDollar.BusinessLayer.Interface.csproj": {
-                "projectPath": "/Users/dgray3/Documents/GitHub/HourDollar/HourDollar.BusinessLayer.Interface/HourDollar.BusinessLayer.Interface.csproj"
+              "/Users/hourdollar/Documents/GitHub/hourdollar/hourdollar-api/HourDollar.BusinessLayer.Interface/HourDollar.BusinessLayer.Interface.csproj": {
+                "projectPath": "/Users/hourdollar/Documents/GitHub/hourdollar/hourdollar-api/HourDollar.BusinessLayer.Interface/HourDollar.BusinessLayer.Interface.csproj"
               },
-              "/Users/dgray3/Documents/GitHub/HourDollar/HourDollar.Config/HourDollar.Config.csproj": {
-                "projectPath": "/Users/dgray3/Documents/GitHub/HourDollar/HourDollar.Config/HourDollar.Config.csproj"
+              "/Users/hourdollar/Documents/GitHub/hourdollar/hourdollar-api/HourDollar.Config/HourDollar.Config.csproj": {
+                "projectPath": "/Users/hourdollar/Documents/GitHub/hourdollar/hourdollar-api/HourDollar.Config/HourDollar.Config.csproj"
               },
-              "/Users/dgray3/Documents/GitHub/HourDollar/HourDollar.Models/HourDollar.Models.csproj": {
-                "projectPath": "/Users/dgray3/Documents/GitHub/HourDollar/HourDollar.Models/HourDollar.Models.csproj"
+              "/Users/hourdollar/Documents/GitHub/hourdollar/hourdollar-api/HourDollar.Models/HourDollar.Models.csproj": {
+                "projectPath": "/Users/hourdollar/Documents/GitHub/hourdollar/hourdollar-api/HourDollar.Models/HourDollar.Models.csproj"
               }
             }
           }
@@ -49,6 +46,10 @@
       "frameworks": {
         "netcoreapp3.1": {
           "dependencies": {
+            "MySqlConnector": {
+              "target": "Package",
+              "version": "[1.0.0, )"
+            },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
               "version": "[5.0.0, )"
@@ -72,24 +73,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.101/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.301/RuntimeIdentifierGraph.json"
         }
       }
     },
-    "/Users/dgray3/Documents/GitHub/HourDollar/HourDollar.BusinessLayer.Interface/HourDollar.BusinessLayer.Interface.csproj": {
+    "/Users/hourdollar/Documents/GitHub/hourdollar/hourdollar-api/HourDollar.BusinessLayer.Interface/HourDollar.BusinessLayer.Interface.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/dgray3/Documents/GitHub/HourDollar/HourDollar.BusinessLayer.Interface/HourDollar.BusinessLayer.Interface.csproj",
+        "projectUniqueName": "/Users/hourdollar/Documents/GitHub/hourdollar/hourdollar-api/HourDollar.BusinessLayer.Interface/HourDollar.BusinessLayer.Interface.csproj",
         "projectName": "HourDollar.BusinessLayer.Interface",
-        "projectPath": "/Users/dgray3/Documents/GitHub/HourDollar/HourDollar.BusinessLayer.Interface/HourDollar.BusinessLayer.Interface.csproj",
-        "packagesPath": "/Users/dgray3/.nuget/packages/",
-        "outputPath": "/Users/dgray3/Documents/GitHub/HourDollar/HourDollar.BusinessLayer.Interface/obj/",
+        "projectPath": "/Users/hourdollar/Documents/GitHub/hourdollar/hourdollar-api/HourDollar.BusinessLayer.Interface/HourDollar.BusinessLayer.Interface.csproj",
+        "packagesPath": "/Users/hourdollar/.nuget/packages/",
+        "outputPath": "/Users/hourdollar/Documents/GitHub/hourdollar/hourdollar-api/HourDollar.BusinessLayer.Interface/obj/",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "/Users/dgray3/.nuget/NuGet/NuGet.Config"
+          "/Users/hourdollar/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
@@ -100,8 +98,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "/Users/dgray3/Documents/GitHub/HourDollar/HourDollar.Models/HourDollar.Models.csproj": {
-                "projectPath": "/Users/dgray3/Documents/GitHub/HourDollar/HourDollar.Models/HourDollar.Models.csproj"
+              "/Users/hourdollar/Documents/GitHub/hourdollar/hourdollar-api/HourDollar.Models/HourDollar.Models.csproj": {
+                "projectPath": "/Users/hourdollar/Documents/GitHub/hourdollar/hourdollar-api/HourDollar.Models/HourDollar.Models.csproj"
               }
             }
           }
@@ -135,24 +133,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.101/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.301/RuntimeIdentifierGraph.json"
         }
       }
     },
-    "/Users/dgray3/Documents/GitHub/HourDollar/HourDollar.BusinessLayer/HourDollar.BusinessLayer.csproj": {
+    "/Users/hourdollar/Documents/GitHub/hourdollar/hourdollar-api/HourDollar.BusinessLayer/HourDollar.BusinessLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/dgray3/Documents/GitHub/HourDollar/HourDollar.BusinessLayer/HourDollar.BusinessLayer.csproj",
+        "projectUniqueName": "/Users/hourdollar/Documents/GitHub/hourdollar/hourdollar-api/HourDollar.BusinessLayer/HourDollar.BusinessLayer.csproj",
         "projectName": "HourDollar.BusinessLayer",
-        "projectPath": "/Users/dgray3/Documents/GitHub/HourDollar/HourDollar.BusinessLayer/HourDollar.BusinessLayer.csproj",
-        "packagesPath": "/Users/dgray3/.nuget/packages/",
-        "outputPath": "/Users/dgray3/Documents/GitHub/HourDollar/HourDollar.BusinessLayer/obj/",
+        "projectPath": "/Users/hourdollar/Documents/GitHub/hourdollar/hourdollar-api/HourDollar.BusinessLayer/HourDollar.BusinessLayer.csproj",
+        "packagesPath": "/Users/hourdollar/.nuget/packages/",
+        "outputPath": "/Users/hourdollar/Documents/GitHub/hourdollar/hourdollar-api/HourDollar.BusinessLayer/obj/",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "/Users/dgray3/.nuget/NuGet/NuGet.Config"
+          "/Users/hourdollar/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
@@ -163,14 +158,14 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "/Users/dgray3/Documents/GitHub/HourDollar/HourDollar.BusinessLayer.Interface/HourDollar.BusinessLayer.Interface.csproj": {
-                "projectPath": "/Users/dgray3/Documents/GitHub/HourDollar/HourDollar.BusinessLayer.Interface/HourDollar.BusinessLayer.Interface.csproj"
+              "/Users/hourdollar/Documents/GitHub/hourdollar/hourdollar-api/HourDollar.BusinessLayer.Interface/HourDollar.BusinessLayer.Interface.csproj": {
+                "projectPath": "/Users/hourdollar/Documents/GitHub/hourdollar/hourdollar-api/HourDollar.BusinessLayer.Interface/HourDollar.BusinessLayer.Interface.csproj"
               },
-              "/Users/dgray3/Documents/GitHub/HourDollar/HourDollar.DataLayer.Interface/HourDollar.DataLayer.Interface.csproj": {
-                "projectPath": "/Users/dgray3/Documents/GitHub/HourDollar/HourDollar.DataLayer.Interface/HourDollar.DataLayer.Interface.csproj"
+              "/Users/hourdollar/Documents/GitHub/hourdollar/hourdollar-api/HourDollar.DataLayer.Interface/HourDollar.DataLayer.Interface.csproj": {
+                "projectPath": "/Users/hourdollar/Documents/GitHub/hourdollar/hourdollar-api/HourDollar.DataLayer.Interface/HourDollar.DataLayer.Interface.csproj"
               },
-              "/Users/dgray3/Documents/GitHub/HourDollar/HourDollar.Models/HourDollar.Models.csproj": {
-                "projectPath": "/Users/dgray3/Documents/GitHub/HourDollar/HourDollar.Models/HourDollar.Models.csproj"
+              "/Users/hourdollar/Documents/GitHub/hourdollar/hourdollar-api/HourDollar.Models/HourDollar.Models.csproj": {
+                "projectPath": "/Users/hourdollar/Documents/GitHub/hourdollar/hourdollar-api/HourDollar.Models/HourDollar.Models.csproj"
               }
             }
           }
@@ -204,24 +199,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.101/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.301/RuntimeIdentifierGraph.json"
         }
       }
     },
-    "/Users/dgray3/Documents/GitHub/HourDollar/HourDollar.Config/HourDollar.Config.csproj": {
+    "/Users/hourdollar/Documents/GitHub/hourdollar/hourdollar-api/HourDollar.Config/HourDollar.Config.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/dgray3/Documents/GitHub/HourDollar/HourDollar.Config/HourDollar.Config.csproj",
+        "projectUniqueName": "/Users/hourdollar/Documents/GitHub/hourdollar/hourdollar-api/HourDollar.Config/HourDollar.Config.csproj",
         "projectName": "HourDollar.Config",
-        "projectPath": "/Users/dgray3/Documents/GitHub/HourDollar/HourDollar.Config/HourDollar.Config.csproj",
-        "packagesPath": "/Users/dgray3/.nuget/packages/",
-        "outputPath": "/Users/dgray3/Documents/GitHub/HourDollar/HourDollar.Config/obj/",
+        "projectPath": "/Users/hourdollar/Documents/GitHub/hourdollar/hourdollar-api/HourDollar.Config/HourDollar.Config.csproj",
+        "packagesPath": "/Users/hourdollar/.nuget/packages/",
+        "outputPath": "/Users/hourdollar/Documents/GitHub/hourdollar/hourdollar-api/HourDollar.Config/obj/",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "/Users/dgray3/.nuget/NuGet/NuGet.Config"
+          "/Users/hourdollar/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
@@ -232,17 +224,17 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "/Users/dgray3/Documents/GitHub/HourDollar/HourDollar.BusinessLayer.Interface/HourDollar.BusinessLayer.Interface.csproj": {
-                "projectPath": "/Users/dgray3/Documents/GitHub/HourDollar/HourDollar.BusinessLayer.Interface/HourDollar.BusinessLayer.Interface.csproj"
+              "/Users/hourdollar/Documents/GitHub/hourdollar/hourdollar-api/HourDollar.BusinessLayer.Interface/HourDollar.BusinessLayer.Interface.csproj": {
+                "projectPath": "/Users/hourdollar/Documents/GitHub/hourdollar/hourdollar-api/HourDollar.BusinessLayer.Interface/HourDollar.BusinessLayer.Interface.csproj"
               },
-              "/Users/dgray3/Documents/GitHub/HourDollar/HourDollar.BusinessLayer/HourDollar.BusinessLayer.csproj": {
-                "projectPath": "/Users/dgray3/Documents/GitHub/HourDollar/HourDollar.BusinessLayer/HourDollar.BusinessLayer.csproj"
+              "/Users/hourdollar/Documents/GitHub/hourdollar/hourdollar-api/HourDollar.BusinessLayer/HourDollar.BusinessLayer.csproj": {
+                "projectPath": "/Users/hourdollar/Documents/GitHub/hourdollar/hourdollar-api/HourDollar.BusinessLayer/HourDollar.BusinessLayer.csproj"
               },
-              "/Users/dgray3/Documents/GitHub/HourDollar/HourDollar.DataLayer.Interface/HourDollar.DataLayer.Interface.csproj": {
-                "projectPath": "/Users/dgray3/Documents/GitHub/HourDollar/HourDollar.DataLayer.Interface/HourDollar.DataLayer.Interface.csproj"
+              "/Users/hourdollar/Documents/GitHub/hourdollar/hourdollar-api/HourDollar.DataLayer.Interface/HourDollar.DataLayer.Interface.csproj": {
+                "projectPath": "/Users/hourdollar/Documents/GitHub/hourdollar/hourdollar-api/HourDollar.DataLayer.Interface/HourDollar.DataLayer.Interface.csproj"
               },
-              "/Users/dgray3/Documents/GitHub/HourDollar/HourDollar.DataLayer/HourDollar.DataLayer.csproj": {
-                "projectPath": "/Users/dgray3/Documents/GitHub/HourDollar/HourDollar.DataLayer/HourDollar.DataLayer.csproj"
+              "/Users/hourdollar/Documents/GitHub/hourdollar/hourdollar-api/HourDollar.DataLayer/HourDollar.DataLayer.csproj": {
+                "projectPath": "/Users/hourdollar/Documents/GitHub/hourdollar/hourdollar-api/HourDollar.DataLayer/HourDollar.DataLayer.csproj"
               }
             }
           }
@@ -288,24 +280,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.101/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.301/RuntimeIdentifierGraph.json"
         }
       }
     },
-    "/Users/dgray3/Documents/GitHub/HourDollar/HourDollar.DataLayer.Interface/HourDollar.DataLayer.Interface.csproj": {
+    "/Users/hourdollar/Documents/GitHub/hourdollar/hourdollar-api/HourDollar.DataLayer.Interface/HourDollar.DataLayer.Interface.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/dgray3/Documents/GitHub/HourDollar/HourDollar.DataLayer.Interface/HourDollar.DataLayer.Interface.csproj",
+        "projectUniqueName": "/Users/hourdollar/Documents/GitHub/hourdollar/hourdollar-api/HourDollar.DataLayer.Interface/HourDollar.DataLayer.Interface.csproj",
         "projectName": "HourDollar.DataLayer.Interface",
-        "projectPath": "/Users/dgray3/Documents/GitHub/HourDollar/HourDollar.DataLayer.Interface/HourDollar.DataLayer.Interface.csproj",
-        "packagesPath": "/Users/dgray3/.nuget/packages/",
-        "outputPath": "/Users/dgray3/Documents/GitHub/HourDollar/HourDollar.DataLayer.Interface/obj/",
+        "projectPath": "/Users/hourdollar/Documents/GitHub/hourdollar/hourdollar-api/HourDollar.DataLayer.Interface/HourDollar.DataLayer.Interface.csproj",
+        "packagesPath": "/Users/hourdollar/.nuget/packages/",
+        "outputPath": "/Users/hourdollar/Documents/GitHub/hourdollar/hourdollar-api/HourDollar.DataLayer.Interface/obj/",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "/Users/dgray3/.nuget/NuGet/NuGet.Config"
+          "/Users/hourdollar/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
@@ -316,8 +305,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "/Users/dgray3/Documents/GitHub/HourDollar/HourDollar.Models/HourDollar.Models.csproj": {
-                "projectPath": "/Users/dgray3/Documents/GitHub/HourDollar/HourDollar.Models/HourDollar.Models.csproj"
+              "/Users/hourdollar/Documents/GitHub/hourdollar/hourdollar-api/HourDollar.Models/HourDollar.Models.csproj": {
+                "projectPath": "/Users/hourdollar/Documents/GitHub/hourdollar/hourdollar-api/HourDollar.Models/HourDollar.Models.csproj"
               }
             }
           }
@@ -351,24 +340,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.101/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.301/RuntimeIdentifierGraph.json"
         }
       }
     },
-    "/Users/dgray3/Documents/GitHub/HourDollar/HourDollar.DataLayer/HourDollar.DataLayer.csproj": {
+    "/Users/hourdollar/Documents/GitHub/hourdollar/hourdollar-api/HourDollar.DataLayer/HourDollar.DataLayer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/dgray3/Documents/GitHub/HourDollar/HourDollar.DataLayer/HourDollar.DataLayer.csproj",
+        "projectUniqueName": "/Users/hourdollar/Documents/GitHub/hourdollar/hourdollar-api/HourDollar.DataLayer/HourDollar.DataLayer.csproj",
         "projectName": "HourDollar.DataLayer",
-        "projectPath": "/Users/dgray3/Documents/GitHub/HourDollar/HourDollar.DataLayer/HourDollar.DataLayer.csproj",
-        "packagesPath": "/Users/dgray3/.nuget/packages/",
-        "outputPath": "/Users/dgray3/Documents/GitHub/HourDollar/HourDollar.DataLayer/obj/",
+        "projectPath": "/Users/hourdollar/Documents/GitHub/hourdollar/hourdollar-api/HourDollar.DataLayer/HourDollar.DataLayer.csproj",
+        "packagesPath": "/Users/hourdollar/.nuget/packages/",
+        "outputPath": "/Users/hourdollar/Documents/GitHub/hourdollar/hourdollar-api/HourDollar.DataLayer/obj/",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "/Users/dgray3/.nuget/NuGet/NuGet.Config"
+          "/Users/hourdollar/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
@@ -379,11 +365,11 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "/Users/dgray3/Documents/GitHub/HourDollar/HourDollar.DataLayer.Interface/HourDollar.DataLayer.Interface.csproj": {
-                "projectPath": "/Users/dgray3/Documents/GitHub/HourDollar/HourDollar.DataLayer.Interface/HourDollar.DataLayer.Interface.csproj"
+              "/Users/hourdollar/Documents/GitHub/hourdollar/hourdollar-api/HourDollar.DataLayer.Interface/HourDollar.DataLayer.Interface.csproj": {
+                "projectPath": "/Users/hourdollar/Documents/GitHub/hourdollar/hourdollar-api/HourDollar.DataLayer.Interface/HourDollar.DataLayer.Interface.csproj"
               },
-              "/Users/dgray3/Documents/GitHub/HourDollar/HourDollar.Models/HourDollar.Models.csproj": {
-                "projectPath": "/Users/dgray3/Documents/GitHub/HourDollar/HourDollar.Models/HourDollar.Models.csproj"
+              "/Users/hourdollar/Documents/GitHub/hourdollar/hourdollar-api/HourDollar.Models/HourDollar.Models.csproj": {
+                "projectPath": "/Users/hourdollar/Documents/GitHub/hourdollar/hourdollar-api/HourDollar.Models/HourDollar.Models.csproj"
               }
             }
           }
@@ -431,24 +417,21 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.101/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.301/RuntimeIdentifierGraph.json"
         }
       }
     },
-    "/Users/dgray3/Documents/GitHub/HourDollar/HourDollar.Models/HourDollar.Models.csproj": {
+    "/Users/hourdollar/Documents/GitHub/hourdollar/hourdollar-api/HourDollar.Models/HourDollar.Models.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/dgray3/Documents/GitHub/HourDollar/HourDollar.Models/HourDollar.Models.csproj",
+        "projectUniqueName": "/Users/hourdollar/Documents/GitHub/hourdollar/hourdollar-api/HourDollar.Models/HourDollar.Models.csproj",
         "projectName": "HourDollar.Models",
-        "projectPath": "/Users/dgray3/Documents/GitHub/HourDollar/HourDollar.Models/HourDollar.Models.csproj",
-        "packagesPath": "/Users/dgray3/.nuget/packages/",
-        "outputPath": "/Users/dgray3/Documents/GitHub/HourDollar/HourDollar.Models/obj/",
+        "projectPath": "/Users/hourdollar/Documents/GitHub/hourdollar/hourdollar-api/HourDollar.Models/HourDollar.Models.csproj",
+        "packagesPath": "/Users/hourdollar/.nuget/packages/",
+        "outputPath": "/Users/hourdollar/Documents/GitHub/hourdollar/hourdollar-api/HourDollar.Models/obj/",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
-        ],
         "configFilePaths": [
-          "/Users/dgray3/.nuget/NuGet/NuGet.Config"
+          "/Users/hourdollar/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
@@ -469,6 +452,12 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
+          "dependencies": {
+            "MySqlConnector": {
+              "target": "Package",
+              "version": "[1.0.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
@@ -484,7 +473,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.101/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.301/RuntimeIdentifierGraph.json"
         }
       }
     }
