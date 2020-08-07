@@ -1,0 +1,12 @@
+/Users/hourdollar/Documents/GitHub/hourdollar/hourdollar-api/HourDollar.DataLayer.Interface/bin/Release/netcoreapp3.1/osx.10.14-x64/HourDollar.DataLayer.Interface.deps.json
+/Users/hourdollar/Documents/GitHub/hourdollar/hourdollar-api/HourDollar.DataLayer.Interface/bin/Release/netcoreapp3.1/osx.10.14-x64/HourDollar.DataLayer.Interface.dll
+/Users/hourdollar/Documents/GitHub/hourdollar/hourdollar-api/HourDollar.DataLayer.Interface/bin/Release/netcoreapp3.1/osx.10.14-x64/HourDollar.DataLayer.Interface.pdb
+/Users/hourdollar/Documents/GitHub/hourdollar/hourdollar-api/HourDollar.DataLayer.Interface/bin/Release/netcoreapp3.1/osx.10.14-x64/HourDollar.Models.dll
+/Users/hourdollar/Documents/GitHub/hourdollar/hourdollar-api/HourDollar.DataLayer.Interface/bin/Release/netcoreapp3.1/osx.10.14-x64/HourDollar.Models.pdb
+/Users/hourdollar/Documents/GitHub/hourdollar/hourdollar-api/HourDollar.DataLayer.Interface/obj/Release/netcoreapp3.1/osx.10.14-x64/HourDollar.DataLayer.Interface.csprojAssemblyReference.cache
+/Users/hourdollar/Documents/GitHub/hourdollar/hourdollar-api/HourDollar.DataLayer.Interface/obj/Release/netcoreapp3.1/osx.10.14-x64/HourDollar.DataLayer.Interface.AssemblyInfoInputs.cache
+/Users/hourdollar/Documents/GitHub/hourdollar/hourdollar-api/HourDollar.DataLayer.Interface/obj/Release/netcoreapp3.1/osx.10.14-x64/HourDollar.DataLayer.Interface.AssemblyInfo.cs
+/Users/hourdollar/Documents/GitHub/hourdollar/hourdollar-api/HourDollar.DataLayer.Interface/obj/Release/netcoreapp3.1/osx.10.14-x64/HourDollar.DataLayer.Interface.csproj.CoreCompileInputs.cache
+/Users/hourdollar/Documents/GitHub/hourdollar/hourdollar-api/HourDollar.DataLayer.Interface/obj/Release/netcoreapp3.1/osx.10.14-x64/HourDollar.DataLayer.Interface.csproj.CopyComplete
+/Users/hourdollar/Documents/GitHub/hourdollar/hourdollar-api/HourDollar.DataLayer.Interface/obj/Release/netcoreapp3.1/osx.10.14-x64/HourDollar.DataLayer.Interface.dll
+/Users/hourdollar/Documents/GitHub/hourdollar/hourdollar-api/HourDollar.DataLayer.Interface/obj/Release/netcoreapp3.1/osx.10.14-x64/HourDollar.DataLayer.Interface.pdb

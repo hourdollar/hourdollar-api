@@ -18,7 +18,8 @@
   </ImportGroup>
   <PropertyGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
     <PkgMicrosoft_Extensions_ApiDescription_Server Condition=" '$(PkgMicrosoft_Extensions_ApiDescription_Server)' == '' ">/Users/hourdollar/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0</PkgMicrosoft_Extensions_ApiDescription_Server>
-    <PkgAWSSDK_Core Condition=" '$(PkgAWSSDK_Core)' == '' ">/Users/hourdollar/.nuget/packages/awssdk.core/3.3.104.33</PkgAWSSDK_Core>
+    <PkgAWSSDK_Core Condition=" '$(PkgAWSSDK_Core)' == '' ">/Users/hourdollar/.nuget/packages/awssdk.core/3.5.0-beta</PkgAWSSDK_Core>
     <PkgAWSSDK_DynamoDBv2 Condition=" '$(PkgAWSSDK_DynamoDBv2)' == '' ">/Users/hourdollar/.nuget/packages/awssdk.dynamodbv2/3.3.105.7</PkgAWSSDK_DynamoDBv2>
+    <PkgAWSSDK_SimpleSystemsManagement Condition=" '$(PkgAWSSDK_SimpleSystemsManagement)' == '' ">/Users/hourdollar/.nuget/packages/awssdk.simplesystemsmanagement/3.5.0-beta</PkgAWSSDK_SimpleSystemsManagement>
   </PropertyGroup>
 </Project>

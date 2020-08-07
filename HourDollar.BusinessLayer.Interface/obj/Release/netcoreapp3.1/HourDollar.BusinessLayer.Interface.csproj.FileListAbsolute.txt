@@ -1,0 +1,11 @@
+/Users/hourdollar/Documents/GitHub/hourdollar/hourdollar-api/HourDollar.BusinessLayer.Interface/bin/Release/netcoreapp3.1/HourDollar.BusinessLayer.Interface.deps.json
+/Users/hourdollar/Documents/GitHub/hourdollar/hourdollar-api/HourDollar.BusinessLayer.Interface/bin/Release/netcoreapp3.1/HourDollar.BusinessLayer.Interface.dll
+/Users/hourdollar/Documents/GitHub/hourdollar/hourdollar-api/HourDollar.BusinessLayer.Interface/bin/Release/netcoreapp3.1/HourDollar.BusinessLayer.Interface.pdb
+/Users/hourdollar/Documents/GitHub/hourdollar/hourdollar-api/HourDollar.BusinessLayer.Interface/bin/Release/netcoreapp3.1/HourDollar.Models.dll
+/Users/hourdollar/Documents/GitHub/hourdollar/hourdollar-api/HourDollar.BusinessLayer.Interface/bin/Release/netcoreapp3.1/HourDollar.Models.pdb
+/Users/hourdollar/Documents/GitHub/hourdollar/hourdollar-api/HourDollar.BusinessLayer.Interface/obj/Release/netcoreapp3.1/HourDollar.BusinessLayer.Interface.AssemblyInfoInputs.cache
+/Users/hourdollar/Documents/GitHub/hourdollar/hourdollar-api/HourDollar.BusinessLayer.Interface/obj/Release/netcoreapp3.1/HourDollar.BusinessLayer.Interface.AssemblyInfo.cs
+/Users/hourdollar/Documents/GitHub/hourdollar/hourdollar-api/HourDollar.BusinessLayer.Interface/obj/Release/netcoreapp3.1/HourDollar.BusinessLayer.Interface.csproj.CoreCompileInputs.cache
+/Users/hourdollar/Documents/GitHub/hourdollar/hourdollar-api/HourDollar.BusinessLayer.Interface/obj/Release/netcoreapp3.1/HourDollar.BusinessLayer.Interface.csproj.CopyComplete
+/Users/hourdollar/Documents/GitHub/hourdollar/hourdollar-api/HourDollar.BusinessLayer.Interface/obj/Release/netcoreapp3.1/HourDollar.BusinessLayer.Interface.dll
+/Users/hourdollar/Documents/GitHub/hourdollar/hourdollar-api/HourDollar.BusinessLayer.Interface/obj/Release/netcoreapp3.1/HourDollar.BusinessLayer.Interface.pdb

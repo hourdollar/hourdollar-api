@@ -110,3 +110,7 @@
 /Users/hourdollar/Documents/GitHub/hourdollar/hourdollar-api/HourDollar.Api/obj/Debug/netcoreapp3.1/HourDollar.Api.pdb
 /Users/hourdollar/Documents/GitHub/hourdollar/hourdollar-api/HourDollar.Api/obj/Debug/netcoreapp3.1/HourDollar.Api.genruntimeconfig.cache
 /Users/hourdollar/Documents/GitHub/hourdollar/hourdollar-api/HourDollar.Api/bin/Debug/netcoreapp3.1/MySqlConnector.dll
+/Users/hourdollar/Documents/GitHub/hourdollar/hourdollar-api/HourDollar.Api/bin/Debug/netcoreapp3.1/Amazon.Extensions.Configuration.SystemsManager.dll
+/Users/hourdollar/Documents/GitHub/hourdollar/hourdollar-api/HourDollar.Api/bin/Debug/netcoreapp3.1/AWSSDK.SimpleSystemsManagement.dll
+/Users/hourdollar/Documents/GitHub/hourdollar/hourdollar-api/HourDollar.Api/bin/Debug/netcoreapp3.1/Microsoft.Extensions.PlatformAbstractions.dll
+/Users/hourdollar/Documents/GitHub/hourdollar/hourdollar-api/HourDollar.Api/bin/Debug/netcoreapp3.1/Newtonsoft.Json.dll

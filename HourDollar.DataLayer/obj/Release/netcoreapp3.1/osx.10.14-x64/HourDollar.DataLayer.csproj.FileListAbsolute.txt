@@ -1,0 +1,17 @@
+/Users/hourdollar/Documents/GitHub/hourdollar/hourdollar-api/HourDollar.DataLayer/bin/Release/netcoreapp3.1/osx.10.14-x64/HourDollar.DataLayer.deps.json
+/Users/hourdollar/Documents/GitHub/hourdollar/hourdollar-api/HourDollar.DataLayer/bin/Release/netcoreapp3.1/osx.10.14-x64/HourDollar.DataLayer.runtimeconfig.json
+/Users/hourdollar/Documents/GitHub/hourdollar/hourdollar-api/HourDollar.DataLayer/bin/Release/netcoreapp3.1/osx.10.14-x64/HourDollar.DataLayer.runtimeconfig.dev.json
+/Users/hourdollar/Documents/GitHub/hourdollar/hourdollar-api/HourDollar.DataLayer/bin/Release/netcoreapp3.1/osx.10.14-x64/HourDollar.DataLayer.dll
+/Users/hourdollar/Documents/GitHub/hourdollar/hourdollar-api/HourDollar.DataLayer/bin/Release/netcoreapp3.1/osx.10.14-x64/HourDollar.DataLayer.pdb
+/Users/hourdollar/Documents/GitHub/hourdollar/hourdollar-api/HourDollar.DataLayer/bin/Release/netcoreapp3.1/osx.10.14-x64/HourDollar.DataLayer.Interface.dll
+/Users/hourdollar/Documents/GitHub/hourdollar/hourdollar-api/HourDollar.DataLayer/bin/Release/netcoreapp3.1/osx.10.14-x64/HourDollar.Models.dll
+/Users/hourdollar/Documents/GitHub/hourdollar/hourdollar-api/HourDollar.DataLayer/bin/Release/netcoreapp3.1/osx.10.14-x64/HourDollar.Models.pdb
+/Users/hourdollar/Documents/GitHub/hourdollar/hourdollar-api/HourDollar.DataLayer/bin/Release/netcoreapp3.1/osx.10.14-x64/HourDollar.DataLayer.Interface.pdb
+/Users/hourdollar/Documents/GitHub/hourdollar/hourdollar-api/HourDollar.DataLayer/obj/Release/netcoreapp3.1/osx.10.14-x64/HourDollar.DataLayer.csprojAssemblyReference.cache
+/Users/hourdollar/Documents/GitHub/hourdollar/hourdollar-api/HourDollar.DataLayer/obj/Release/netcoreapp3.1/osx.10.14-x64/HourDollar.DataLayer.AssemblyInfoInputs.cache
+/Users/hourdollar/Documents/GitHub/hourdollar/hourdollar-api/HourDollar.DataLayer/obj/Release/netcoreapp3.1/osx.10.14-x64/HourDollar.DataLayer.AssemblyInfo.cs
+/Users/hourdollar/Documents/GitHub/hourdollar/hourdollar-api/HourDollar.DataLayer/obj/Release/netcoreapp3.1/osx.10.14-x64/HourDollar.DataLayer.csproj.CoreCompileInputs.cache
+/Users/hourdollar/Documents/GitHub/hourdollar/hourdollar-api/HourDollar.DataLayer/obj/Release/netcoreapp3.1/osx.10.14-x64/HourDollar.DataLayer.csproj.CopyComplete
+/Users/hourdollar/Documents/GitHub/hourdollar/hourdollar-api/HourDollar.DataLayer/obj/Release/netcoreapp3.1/osx.10.14-x64/HourDollar.DataLayer.dll
+/Users/hourdollar/Documents/GitHub/hourdollar/hourdollar-api/HourDollar.DataLayer/obj/Release/netcoreapp3.1/osx.10.14-x64/HourDollar.DataLayer.pdb
+/Users/hourdollar/Documents/GitHub/hourdollar/hourdollar-api/HourDollar.DataLayer/obj/Release/netcoreapp3.1/osx.10.14-x64/HourDollar.DataLayer.genruntimeconfig.cache

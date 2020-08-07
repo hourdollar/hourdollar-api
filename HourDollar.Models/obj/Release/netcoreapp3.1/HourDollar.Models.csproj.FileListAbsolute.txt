@@ -1,0 +1,9 @@
+/Users/hourdollar/Documents/GitHub/hourdollar/hourdollar-api/HourDollar.Models/bin/Release/netcoreapp3.1/HourDollar.Models.deps.json
+/Users/hourdollar/Documents/GitHub/hourdollar/hourdollar-api/HourDollar.Models/bin/Release/netcoreapp3.1/HourDollar.Models.dll
+/Users/hourdollar/Documents/GitHub/hourdollar/hourdollar-api/HourDollar.Models/bin/Release/netcoreapp3.1/HourDollar.Models.pdb
+/Users/hourdollar/Documents/GitHub/hourdollar/hourdollar-api/HourDollar.Models/obj/Release/netcoreapp3.1/HourDollar.Models.csprojAssemblyReference.cache
+/Users/hourdollar/Documents/GitHub/hourdollar/hourdollar-api/HourDollar.Models/obj/Release/netcoreapp3.1/HourDollar.Models.AssemblyInfoInputs.cache
+/Users/hourdollar/Documents/GitHub/hourdollar/hourdollar-api/HourDollar.Models/obj/Release/netcoreapp3.1/HourDollar.Models.AssemblyInfo.cs
+/Users/hourdollar/Documents/GitHub/hourdollar/hourdollar-api/HourDollar.Models/obj/Release/netcoreapp3.1/HourDollar.Models.csproj.CoreCompileInputs.cache
+/Users/hourdollar/Documents/GitHub/hourdollar/hourdollar-api/HourDollar.Models/obj/Release/netcoreapp3.1/HourDollar.Models.dll
+/Users/hourdollar/Documents/GitHub/hourdollar/hourdollar-api/HourDollar.Models/obj/Release/netcoreapp3.1/HourDollar.Models.pdb
